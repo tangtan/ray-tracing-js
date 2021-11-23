@@ -1,0 +1,29 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 90%;
+	background-color: #CCC;
+}
+
+#container {
+	height: 100%;
+	/*width: 100%;*/
+	border-radius: 5px;
+	background-color: #FFF;
+	padding: 5px;
+}
+
+#drawing {
+	height: 100%;
+	width: 100%;
+}
+
+#control {
+	/*width: 100%;*/
+	border-radius: 5px;
+	background-color: #FFF;
+	margin-top: 5px;
+	padding: 5px;
+}
